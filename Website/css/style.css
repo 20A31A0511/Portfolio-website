@@ -1,0 +1,78 @@
+.bannerBgImage{
+    height: 120vh;
+    background: url("/images/bannerimage.jpg");
+    background-size:cover;
+    position: relative;
+}
+
+.bannerText{
+    text-align:right;
+    position:absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:black;
+}
+
+.bannerTitle{
+    font-size: 4rem;
+}
+
+.bannerDesc{
+    font-size: 2rem;
+}
+
+.abouttitle{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 3.5rem;
+    color:chocolate;
+    text-shadow: 15px 15px 5px greenyellow;
+}
+
+.aboutDesc1{
+    font-size: 25px;
+    margin-top: 50px;
+}
+
+.aboutDesc2{
+    font-size: 25px;
+}
+
+.aboutDesc3{
+    font-size: 25px;
+}
+
+.educationtitle{
+    text-align: center;
+    font-size: 3.5rem;
+    color:chocolate;
+    text-shadow: 15px 15px 5px greenyellow;
+    
+}
+
+.skillstitle{
+    text-align: center;
+    font-size: 3.5rem;
+    color:chocolate;
+    text-shadow: 15px 15px 5px greenyellow;
+}
+
+.projectstitle{
+    color:chocolate;
+    text-align: center;
+    font-size: 3.5rem;
+    text-shadow: 15px 15px 5px greenyellow;
+}
+
+.projectdesc{
+    font-size: 20px;
+}
+
+.contacttitle{
+    color:plum;
+    text-align: center;
+    font-size: 3.5rem;
+    color:chocolate;
+    text-shadow: 15px 15px 5px greenyellow;
+}
