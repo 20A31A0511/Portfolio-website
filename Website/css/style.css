@@ -1,6 +1,6 @@
 .bannerBgImage{
     height: 120vh;
-    background: url("/images/bannerimage.jpg");
+    background-image: linear-gradient(to right,cornsilk,greenyellow);
     background-size:cover;
     position: relative;
 }
@@ -26,8 +26,8 @@
     margin-top: 20px;
     text-align: center;
     font-size: 3.5rem;
-    color:chocolate;
-    text-shadow: 15px 15px 5px greenyellow;
+    color:black;
+    
 }
 
 .aboutDesc1{
@@ -46,23 +46,23 @@
 .educationtitle{
     text-align: center;
     font-size: 3.5rem;
-    color:chocolate;
-    text-shadow: 15px 15px 5px greenyellow;
+    color:black;
+    
     
 }
 
 .skillstitle{
     text-align: center;
     font-size: 3.5rem;
-    color:chocolate;
-    text-shadow: 15px 15px 5px greenyellow;
+    color:black;
+    
 }
 
 .projectstitle{
-    color:chocolate;
+    color:black;
     text-align: center;
     font-size: 3.5rem;
-    text-shadow: 15px 15px 5px greenyellow;
+    
 }
 
 .projectdesc{
@@ -70,9 +70,8 @@
 }
 
 .contacttitle{
-    color:plum;
     text-align: center;
     font-size: 3.5rem;
-    color:chocolate;
-    text-shadow: 15px 15px 5px greenyellow;
+    color:black;
+    
 }
